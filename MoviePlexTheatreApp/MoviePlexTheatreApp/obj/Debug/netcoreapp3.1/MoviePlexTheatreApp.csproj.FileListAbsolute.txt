@@ -1,0 +1,26 @@
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.exe
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.deps.json
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.runtimeconfig.json
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.dll
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.pdb
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.dll
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.pdb
+C:\Users\ADMIN\source\repos\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.genruntimeconfig.cache
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.AssemblyInfoInputs.cache
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.AssemblyInfo.cs
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.csproj.CoreCompileInputs.cache
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.dll
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.pdb
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.exe
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.deps.json
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.runtimeconfig.json
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.runtimeconfig.dev.json
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.dll
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\bin\Debug\netcoreapp3.1\MoviePlexTheatreApp.pdb
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.genruntimeconfig.cache
+D:\Sem 2\DoNet\MoviePlexTheatreApp\MoviePlexTheatreApp\obj\Debug\netcoreapp3.1\MoviePlexTheatreApp.csprojAssemblyReference.cache
